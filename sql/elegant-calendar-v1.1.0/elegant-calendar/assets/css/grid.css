@@ -1,0 +1,53 @@
+.elegant-col-12 {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+    max-width: 100%;
+}
+.elegant-col {
+    -ms-flex-preferred-size: 0;
+    flex-basis: 0;
+    -webkit-box-flex: 1;
+    -ms-flex-positive: 1;
+    flex-grow: 1;
+    max-width: 100%;
+}
+.elegant-col, .elegant-col-1, .elegant-col-10, .elegant-col-11, .elegant-col-12, .elegant-col-2, .elegant-col-3, .elegant-col-4, .elegant-col-5, .elegant-col-6, .elegant-col-7, .elegant-col-8, .elegant-col-9, .elegant-col-auto, .elegant-col-lg, .elegant-col-lg-1, .elegant-col-lg-10, .elegant-col-lg-11, .elegant-col-lg-12, .elegant-col-lg-2, .elegant-col-lg-3, .elegant-col-lg-4, .elegant-col-lg-5, .elegant-col-lg-6, .elegant-col-lg-7, .elegant-col-lg-8, .elegant-col-lg-9, .elegant-col-lg-auto, .elegant-col-md, .elegant-col-md-1, .elegant-col-md-10, .elegant-col-md-11, .elegant-col-md-12, .elegant-col-md-2, .elegant-col-md-3, .elegant-col-md-4, .elegant-col-md-5, .elegant-col-md-6, .elegant-col-md-7, .elegant-col-md-8, .elegant-col-md-9, .elegant-col-md-auto, .elegant-col-sm, .elegant-col-sm-1, .elegant-col-sm-10, .elegant-col-sm-11, .elegant-col-sm-12, .elegant-col-sm-2, .elegant-col-sm-3, .elegant-col-sm-4, .elegant-col-sm-5, .elegant-col-sm-6, .elegant-col-sm-7, .elegant-col-sm-8, .elegant-col-sm-9, .elegant-col-sm-auto, .elegant-col-xl, .elegant-col-xl-1, .elegant-col-xl-10, .elegant-col-xl-11, .elegant-col-xl-12, .elegant-col-xl-2, .elegant-col-xl-3, .elegant-col-xl-4, .elegant-col-xl-5, .elegant-col-xl-6, .elegant-col-xl-7, .elegant-col-xl-8, .elegant-col-xl-9, .elegant-col-xl-auto {
+    position: relative;
+    width: 100%;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+    @media (min-width: 768px){
+    .elegant-col-md-6 {
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 50%;
+        flex: 0 0 50%;
+        max-width: 50%;
+    }
+    }
+    @media (min-width: 576px){
+    .elegant-col-sm-6 {
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 50%;
+        flex: 0 0 50%;
+        max-width: 50%;
+    }
+    }
+
+    @media (min-width: 992px){
+        .elegant-col-lg-8 {
+            -webkit-box-flex: 0;
+            -ms-flex: 0 0 66.6666666667%;
+            flex: 0 0 66.6666666667%;
+            max-width: 66.6666666667%;
+        }
+        .elegant-col-lg-4 {
+            -webkit-box-flex: 0;
+            -ms-flex: 0 0 33.3333333333%;
+            flex: 0 0 33.3333333333%;
+            max-width: 33.3333333333%;
+        }
+        }

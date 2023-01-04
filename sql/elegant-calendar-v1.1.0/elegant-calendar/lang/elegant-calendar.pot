@@ -1,0 +1,323 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Elegant Calendar v1.1.0\n"
+"POT-Creation-Date: 2021-03-02 16:09-0800\n"
+"PO-Revision-Date: 2021-03-02 16:09-0800\n"
+"Last-Translator: darell sun <darell1986@gmail.com>\n"
+"Language-Team: WPHobby\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-KeywordsList: _;__;_e;esc_attr_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: lang\n"
+"X-Poedit-SearchPath-1: .\n"
+
+#: admin/abstracts/class-admin-page.php:184
+msgid "Made with %s by WPHobby"
+msgstr ""
+
+#: admin/abstracts/class-admin-ajax.php:40
+msgid "You are not allowed to perform this action"
+msgstr ""
+
+#: admin/abstracts/class-admin-ajax.php:76
+msgid "Event saved successfully!"
+msgstr ""
+
+#: admin/abstracts/class-admin-ajax.php:78
+msgid "User submit data are empty!"
+msgstr ""
+
+#: admin/abstracts/class-admin-ajax.php:95
+msgid "You are not allowed to perform this action"
+msgstr ""
+
+#: admin/abstracts/class-admin-ajax.php:100
+msgid "Global Settings has been connected successfully."
+msgstr ""
+
+#: admin/abstracts/class-admin-ajax.php:102
+msgid "User submit data are empty!"
+msgstr ""
+
+#: admin/classes/class-admin.php:64
+msgid "Calendar"
+msgstr ""
+
+#: admin/classes/class-admin.php:67
+msgid "Elegant Calendar Dashboard"
+msgstr ""
+
+#: admin/classes/class-admin.php:88
+msgid "Settings"
+msgstr ""
+
+#: admin/classes/class-admin.php:89
+msgid "Settings"
+msgstr ""
+
+#: admin/views/dashboard/content.php:2
+msgid "calendar live demos"
+msgstr ""
+
+#: admin/views/dashboard/content.php:41
+msgid "Thank you for choosing Elegant Calendar, the most flexible tool that make you can easily create and manage events calendar! - %1$s"
+msgstr ""
+
+#: admin/views/dashboard/content.php:80
+msgid "Not sure which calendar layout template to use? Check out all our different %s."
+msgstr ""
+
+#: admin/views/dashboard/content.php:106
+msgid "Open demo in new tab"
+msgstr ""
+
+#: admin/views/event/list/content.php:120
+msgid "Published"
+msgstr ""
+
+#: admin/views/event/list/content.php:126
+msgid "Draft"
+msgstr ""
+
+#: admin/views/event/list/content.php:174
+msgid "Unpublish"
+msgstr ""
+
+#: admin/views/event/list/content.php:180
+msgid "Publish"
+msgstr ""
+
+#: includes/class-core.php:90
+msgid "Add Event"
+msgstr ""
+
+#: includes/class-core.php:91
+msgid "Add Event"
+msgstr ""
+
+#: includes/class-core.php:98
+msgid "Event Locations"
+msgstr ""
+
+#: includes/class-core.php:99
+msgid "Event Locations"
+msgstr ""
+
+#: includes/class-core.php:106
+msgid "Event Organizers"
+msgstr ""
+
+#: includes/class-core.php:107
+msgid "Event Organizers"
+msgstr ""
+
+#: includes/class-core.php:114
+msgid "Event Type"
+msgstr ""
+
+#: includes/class-core.php:115
+msgid "Event Type"
+msgstr ""
+
+#: includes/class-modules.php:57
+msgid "event"
+msgstr ""
+
+#: includes/class-post-types.php:65
+msgid "Event Location"
+msgstr ""
+
+#: includes/class-post-types.php:66
+msgid "Event Locations"
+msgstr ""
+
+#: includes/class-post-types.php:72
+msgid "%s"
+msgstr ""
+
+#: includes/class-post-types.php:73
+msgid "%s"
+msgstr ""
+
+#: includes/class-post-types.php:75
+msgid "Search %s"
+msgstr ""
+
+#: includes/class-post-types.php:76
+msgid "All %s"
+msgstr ""
+
+#: includes/class-post-types.php:77
+msgid "Parent %s"
+msgstr ""
+
+#: includes/class-post-types.php:78
+msgid "Parent %s:"
+msgstr ""
+
+#: includes/class-post-types.php:79
+msgid "Edit %s"
+msgstr ""
+
+#: includes/class-post-types.php:80
+msgid "Update %s"
+msgstr ""
+
+#: includes/class-post-types.php:81
+msgid "Add New %s"
+msgstr ""
+
+#: includes/class-post-types.php:82
+msgid "New %s"
+msgstr ""
+
+#: includes/class-post-types.php:92
+msgid "Event Organizer"
+msgstr ""
+
+#: includes/class-post-types.php:93
+msgid "Event Organizers"
+msgstr ""
+
+#: includes/class-post-types.php:99
+msgid "%s"
+msgstr ""
+
+#: includes/class-post-types.php:100
+msgid "%s"
+msgstr ""
+
+#: includes/class-post-types.php:102
+msgid "Search %s"
+msgstr ""
+
+#: includes/class-post-types.php:103
+msgid "All %s"
+msgstr ""
+
+#: includes/class-post-types.php:104
+msgid "Parent %s"
+msgstr ""
+
+#: includes/class-post-types.php:105
+msgid "Parent %s:"
+msgstr ""
+
+#: includes/class-post-types.php:106
+msgid "Edit %s"
+msgstr ""
+
+#: includes/class-post-types.php:107
+msgid "Update %s"
+msgstr ""
+
+#: includes/class-post-types.php:108
+msgid "Add New %s"
+msgstr ""
+
+#: includes/class-post-types.php:109
+msgid "New %s"
+msgstr ""
+
+#: includes/class-post-types.php:119
+msgid "Event Type"
+msgstr ""
+
+#: includes/class-post-types.php:120
+msgid "Event Type"
+msgstr ""
+
+#: includes/class-post-types.php:126
+msgid "%s"
+msgstr ""
+
+#: includes/class-post-types.php:127
+msgid "%s"
+msgstr ""
+
+#: includes/class-post-types.php:129
+msgid "Search %s"
+msgstr ""
+
+#: includes/class-post-types.php:130
+msgid "All %s"
+msgstr ""
+
+#: includes/class-post-types.php:131
+msgid "Parent %s"
+msgstr ""
+
+#: includes/class-post-types.php:132
+msgid "Parent %s:"
+msgstr ""
+
+#: includes/class-post-types.php:133
+msgid "Edit %s"
+msgstr ""
+
+#: includes/class-post-types.php:134
+msgid "Update %s"
+msgstr ""
+
+#: includes/class-post-types.php:135
+msgid "Add New %s"
+msgstr ""
+
+#: includes/class-post-types.php:136
+msgid "New %s"
+msgstr ""
+
+#: includes/jobs/class-cron-job.php:58
+msgid "New %s"
+msgstr ""
+
+#: includes/modules/event/loader.php:88
+msgid "Custom Forms"
+msgstr ""
+
+#: includes/modules/event/loader.php:89
+msgid "Custom Form"
+msgstr ""
+
+#: includes/modules/event/loader.php:90
+msgid "Custom forms, conditional forms, etc. Choose from our library of forms or create a new one from scratch."
+msgstr ""
+
+#: includes/modules/event/loader.php:91
+msgid "New Custom Form"
+msgstr ""
+
+#: includes/modules/event/admin/admin-loader.php:44
+msgid "Events"
+msgstr ""
+
+#: includes/modules/event/admin/admin-loader.php:45
+msgid "Edit Event"
+msgstr ""
+
+#: includes/modules/event/admin/admin-loader.php:45
+msgid "New Event"
+msgstr ""
+
+#: includes/modules/event/admin/admin-page-new.php:26
+msgid "Edit Calendar"
+msgstr ""
+
+#: includes/modules/event/admin/admin-page-new.php:28
+msgid "New Calendar"
+msgstr ""
+
+#: includes/modules/event/admin/admin-page-view.php:228
+msgid "Publish"
+msgstr ""
+
+#: includes/modules/event/admin/admin-page-view.php:229
+msgid "Unpublish"
+msgstr ""
+
+#: includes/modules/event/admin/admin-page-view.php:230
+msgid "Delete"
+msgstr ""
